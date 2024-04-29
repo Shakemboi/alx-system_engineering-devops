@@ -1,4 +1,4 @@
 #!/bin/bash
 
 # Connect to server using SSH with specified private key
-ssh -i ~/.ssh/school ubuntu@100.25.36.224
+ssh -i ~/.ssh/id_rsa ubuntu@100.25.36.224
